@@ -5,6 +5,7 @@ Changelog:
         First Release! Why tf am I doing this.
 
 notes:
-    not compatible with zen-browser for some reason. I have no idea why it's not, but I'm not experienced enough to figure it out. sorry.
+    not compatible with zen-browser for some reason if you're using the site from local files. I have no idea why it's not, but I'm not experienced enough to figure it out. sorry.
     
-    sudo pacman -S firefox is a great command though
+    sudo pacman -S firefox 
+    is a great command though if you really want to download the source code
